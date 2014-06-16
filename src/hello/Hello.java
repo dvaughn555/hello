@@ -8,6 +8,6 @@ public class Hello
 
     public String sayHi()
         {
-        return "hola";
+        return "different";
         }
     }
