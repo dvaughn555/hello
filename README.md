@@ -6,4 +6,11 @@ show image
 </p>
 
 blah
-![red2](https://github.com/dvaughn555/hello/assets/3651646/c7ab9363-560ee-aefe-9e13820cb5fa)
+![red2](https://github.com/dvaughn555/hello/assets/3651646/84a262e8-e9dc-4d6c-827c-1c3e6a9b485b)
+
+centered red
+<p align="center">
+  <img src="https://github.com/dvaughn555/hello/assets/3651646/84a262e8-e9dc-4d6c-827c-1c3e6a9b485b" />
+</p>
+
+
